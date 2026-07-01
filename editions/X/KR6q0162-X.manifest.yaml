@@ -1,0 +1,142 @@
+canonical_identifier: bkk:krp/KR6q0162/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0162/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪門寶藏錄
+  identifiers:
+    krp: KR6q0162
+    cbeta: X64n1276
+    cbeta_old_id: X64n1276
+    authorityid: CA0000402
+    json_key: X1276
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1276.xml
+    old_id: X64n1276
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0162_000-X.yaml, hash: 'sha256:f7c64f9238597b2581e1ad352b561607adf14cce474e621684b53bd65cbfd2dc'}
+  - {seq: 1, filename: KR6q0162_001-X.yaml, hash: 'sha256:697f189dca5fac4304af955668afc58425d276b5fc1f0e2973e0cefb495d1205'}
+  - {seq: 2, filename: KR6q0162_002-X.yaml, hash: 'sha256:02bdd44540543f685dde007f0e04e77b014a567202ec768b668b547ff31e0258'}
+  - {seq: 3, filename: KR6q0162_003-X.yaml, hash: 'sha256:b17bcde75edcbd714a91046b17ad64cc179b775a14e78267994e6a4a914c770e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0162_000-X.markers.yaml, hash: 'sha256:948ae84e1cac79def8d9923bc346e690e68c30d07cf387576a64567fd1c07597'}
+  - {seq: 1, role: markers, filename: assets/KR6q0162_001-X.markers.yaml, hash: 'sha256:3284dc1924ac4409049f6e8cf8701f17e540308a3ea30b40e763f29e50c49203'}
+  - {seq: 2, role: markers, filename: assets/KR6q0162_002-X.markers.yaml, hash: 'sha256:876fc47858c2ae20a3b00170cb9eace92b47b4cabc825f16b595bde203fd3647'}
+  - {seq: 3, role: markers, filename: assets/KR6q0162_003-X.markers.yaml, hash: 'sha256:8389c22859298c13a1b643d2ef10e596063e9fcffd2ca9907247277999fd950f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0162_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1276-A 禪門寶藏錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0162_X_000-mulu-2
+    span:
+    - front
+    - 202
+    - 202
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0162_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3975
+  label: 禪門寶藏錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0162_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 禪教對辨門(二十五則)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0162_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 4179
+  label: 禪門寶藏錄卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0162_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 諸講歸伏門(二十五則)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0162_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 4161
+  label: 禪門寶藏錄卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0162_X_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 君臣崇信門三十九則 尼婆附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0162_X_003-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 君臣崇信門三十九則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0162_X_003-mulu-3
+    span:
+    - body
+    - 3566
+    - 3566
+  label: 尼婆三則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0162_X_003-mulu-4
+    span:
+    - body
+    - 3922
+    - 3922
+  label: No. 1276-B
+  type: mulu
+  level: 1
+hash: sha256:f834ba36f185f958e9dd4d0b4a49e3cd80f40b28e44b79321808dad963d2bafd
