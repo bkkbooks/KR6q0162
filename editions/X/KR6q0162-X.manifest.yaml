@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0162_000-X.yaml, hash: 'sha256:f7c64f9238597b2581e1ad352b561607adf14cce474e621684b53bd65cbfd2dc'}
+  - {seq: 0, filename: KR6q0162_000-X.yaml, hash: 'sha256:3182833b6f50efa11fa1187b82cda9fdaae32a523d80b54861ec789771377469'}
   - {seq: 1, filename: KR6q0162_001-X.yaml, hash: 'sha256:697f189dca5fac4304af955668afc58425d276b5fc1f0e2973e0cefb495d1205'}
   - {seq: 2, filename: KR6q0162_002-X.yaml, hash: 'sha256:02bdd44540543f685dde007f0e04e77b014a567202ec768b668b547ff31e0258'}
   - {seq: 3, filename: KR6q0162_003-X.yaml, hash: 'sha256:b17bcde75edcbd714a91046b17ad64cc179b775a14e78267994e6a4a914c770e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0162_000-X.markers.yaml, hash: 'sha256:948ae84e1cac79def8d9923bc346e690e68c30d07cf387576a64567fd1c07597'}
+  - {seq: 0, role: markers, filename: assets/KR6q0162_000-X.markers.yaml, hash: 'sha256:c2b5a42e06e3f990f6664f6fda78791d35c96765617f615dcdbd9b64560f000f'}
   - {seq: 1, role: markers, filename: assets/KR6q0162_001-X.markers.yaml, hash: 'sha256:3284dc1924ac4409049f6e8cf8701f17e540308a3ea30b40e763f29e50c49203'}
   - {seq: 2, role: markers, filename: assets/KR6q0162_002-X.markers.yaml, hash: 'sha256:876fc47858c2ae20a3b00170cb9eace92b47b4cabc825f16b595bde203fd3647'}
   - {seq: 3, role: markers, filename: assets/KR6q0162_003-X.markers.yaml, hash: 'sha256:8389c22859298c13a1b643d2ef10e596063e9fcffd2ca9907247277999fd950f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0162_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1276-A 禪門寶藏錄序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0162_X_000-mulu-2
     span:
-    - front
+    - body
     - 202
     - 202
   label: 目次
@@ -139,4 +139,4 @@ table_of_contents:
   label: No. 1276-B
   type: mulu
   level: 1
-hash: sha256:f834ba36f185f958e9dd4d0b4a49e3cd80f40b28e44b79321808dad963d2bafd
+hash: sha256:577151bbd87bc3295a8e95688625dfddda3fb1df1e77708b0313e126b9516031

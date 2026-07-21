@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0162/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 禪門寶藏録序羌夫我迦文老人禪燈點迦葉之心教海瀉阿難之口則禪之與教異日噵也決矣而職教者聞教外別傳之説則面青眼白云惡是何言歟噫人我之大一至於斯也故走慨然賈勇不揆蠡測管窺而以三門質之三門者何混濫者禪教也故上之卷立禪教對辨門毀謗者諸講也故中之卷立諸講歸伏門流通者君臣也故下之卷立君臣崇信門此三門所引皆古重言也非臆説也非臆説則人信之者儻有焉目之為禪門寶藏云海東沙門內願堂真靜大禪師天頙蒙旦序至元三十年癸巳十一月日也目次上卷禪教對辨門二十五則中卷諸講歸伏門二十五則下卷君臣崇信門三十九則
   hash: sha256:6dddddfb84e08a00b17463fb62ff6dac96df7cf2756c85dae1f052ff57028114
   markers:
   - {type: 序, offset: 0, content: No. 1276-A 禪門寶藏錄序, id: KR6q0162_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 202, content: 目次, id: KR6q0162_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 禪門寶藏錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X64/X64n1276.xml
     old_id: X64n1276
-hash: sha256:a57cfb914ee9c65c2669e07de3c5e838eb21027a97b6a096658411c0790624f9
+hash: sha256:0a04ddedee287553196fdf8533f096a483acf5f43a8576a6bbec8fd7831a78a4
